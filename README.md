@@ -1,1 +1,2 @@
-# TEI3G3-FastAI-BridgeCard-Classification
+# FastAI Bridge Card Classification
+This repository contains a project for classifying bridge cards using the [fastai library](https://www.fast.ai/) and transfer learning with the ResNet-50 algorithm. The project leverages the power of convolutional neural networks to accurately identify and categorize bridge cards into their respective suits and ranks. Fastai's high-level API simplifies the process of model training, data augmentation, and hyperparameter tuning, while ResNet-50, a robust deep learning model pre-trained on ImageNet, provides a strong foundation for transfer learning, enabling the model to achieve high accuracy with limited training data.
